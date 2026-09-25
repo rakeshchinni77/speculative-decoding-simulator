@@ -1,0 +1,19 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: speculative_decoding_app
+    volumes:
+      - .:/app
+    environment:
+      - HF_TOKEN=${HF_TOKEN:-}
+      - DRAFT_MODEL_ID=${DRAFT_MODEL_ID:-gpt2}
+      - TARGET_MODEL_ID=${TARGET_MODEL_ID:-gpt2-large}
+      - DEVICE=${DEVICE:-cpu}
+      - MAX_NEW_TOKENS=${MAX_NEW_TOKENS:-15}
+      - DEFAULT_N_DRAFT=${DEFAULT_N_DRAFT:-4}
+      - USE_TF=0
+      - USE_FLAX=0
+      - USE_TORCH=1
+    command: ["sh", "-c", "pytest tests/ && tail -f /dev/null"]
