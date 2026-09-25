@@ -1,0 +1,202 @@
+[
+  {
+    "id": "p1",
+    "domain": "alpaca",
+    "prompt": "Translate to French: The meeting is scheduled for 3pm."
+  },
+  {
+    "id": "p2",
+    "domain": "writing_prompts",
+    "prompt": "Write a surprising twist ending for a short story about a lighthouse keeper."
+  },
+  {
+    "id": "p3",
+    "domain": "alpaca",
+    "prompt": "Translate to Spanish: Good morning, how are you today?"
+  },
+  {
+    "id": "p4",
+    "domain": "alpaca",
+    "prompt": "Translate to German: Thank you very much for your help."
+  },
+  {
+    "id": "p5",
+    "domain": "alpaca",
+    "prompt": "Convert the following temperature from Celsius to Fahrenheit: 25 degrees Celsius."
+  },
+  {
+    "id": "p6",
+    "domain": "alpaca",
+    "prompt": "List the primary colors in standard color theory."
+  },
+  {
+    "id": "p7",
+    "domain": "alpaca",
+    "prompt": "What is the capital city of France?"
+  },
+  {
+    "id": "p8",
+    "domain": "alpaca",
+    "prompt": "What is the chemical formula for water?"
+  },
+  {
+    "id": "p9",
+    "domain": "alpaca",
+    "prompt": "Calculate the product of 12 and 15."
+  },
+  {
+    "id": "p10",
+    "domain": "alpaca",
+    "prompt": "Complete the sequence: 2, 4, 6, 8, 10,"
+  },
+  {
+    "id": "p11",
+    "domain": "alpaca",
+    "prompt": "Extract the date from this sentence: The event will take place on October 14, 2026."
+  },
+  {
+    "id": "p12",
+    "domain": "alpaca",
+    "prompt": "Classify the sentiment of this review as Positive or Negative: The food was absolutely delicious and the service was superb."
+  },
+  {
+    "id": "p13",
+    "domain": "alpaca",
+    "prompt": "Classify the sentiment of this review as Positive or Negative: The flight was delayed by five hours and my luggage was lost."
+  },
+  {
+    "id": "p14",
+    "domain": "alpaca",
+    "prompt": "Format the following telephone number with hyphens: 1234567890"
+  },
+  {
+    "id": "p15",
+    "domain": "alpaca",
+    "prompt": "Name the four cardinal directions on a compass."
+  },
+  {
+    "id": "p16",
+    "domain": "alpaca",
+    "prompt": "What is the square root of 64?"
+  },
+  {
+    "id": "p17",
+    "domain": "alpaca",
+    "prompt": "Identify the language of the following phrase: 'Bonjour tout le monde'"
+  },
+  {
+    "id": "p18",
+    "domain": "alpaca",
+    "prompt": "Alphabetize the following list of words: apple, zebra, banana, orange, grape."
+  },
+  {
+    "id": "p19",
+    "domain": "alpaca",
+    "prompt": "Translate to Italian: Where is the nearest train station?"
+  },
+  {
+    "id": "p20",
+    "domain": "alpaca",
+    "prompt": "State the boiling point of water in degrees Celsius at standard atmospheric pressure."
+  },
+  {
+    "id": "p21",
+    "domain": "alpaca",
+    "prompt": "Which planet is known as the Red Planet in our solar system?"
+  },
+  {
+    "id": "p22",
+    "domain": "writing_prompts",
+    "prompt": "Describe a bustling steampunk marketplace at twilight from the perspective of an owl."
+  },
+  {
+    "id": "p23",
+    "domain": "writing_prompts",
+    "prompt": "Compose an enigmatic riddle about time and lost memories."
+  },
+  {
+    "id": "p24",
+    "domain": "writing_prompts",
+    "prompt": "Write the opening scene of a sci-fi novel where silence is used as currency."
+  },
+  {
+    "id": "p25",
+    "domain": "writing_prompts",
+    "prompt": "Imagine a conversation between an ancient tree and the first satellite launched into orbit."
+  },
+  {
+    "id": "p26",
+    "domain": "writing_prompts",
+    "prompt": "Describe the sensory experience of walking through a library where books whisper their secrets."
+  },
+  {
+    "id": "p27",
+    "domain": "writing_prompts",
+    "prompt": "Draft a poetic monologue of an ocean wave reaching the shore during a stormy night."
+  },
+  {
+    "id": "p28",
+    "domain": "writing_prompts",
+    "prompt": "Create a dialogue between two rival chefs who secretly respect each other's culinary genius."
+  },
+  {
+    "id": "p29",
+    "domain": "writing_prompts",
+    "prompt": "Write a vivid description of an alien city carved entirely out of bioluminescent crystal."
+  },
+  {
+    "id": "p30",
+    "domain": "writing_prompts",
+    "prompt": "Invent a philosophical fable about a clockmaker who discovered how to pause a single second."
+  },
+  {
+    "id": "p31",
+    "domain": "writing_prompts",
+    "prompt": "Describe an unexpected friendship between an eccentric inventor and a runaway artificial intelligence."
+  },
+  {
+    "id": "p32",
+    "domain": "writing_prompts",
+    "prompt": "Write a scene where the stars in the night sky suddenly rearrange themselves into ancient symbols."
+  },
+  {
+    "id": "p33",
+    "domain": "writing_prompts",
+    "prompt": "Depict the internal thoughts of a deep-sea diver discovering a submerged metropolis."
+  },
+  {
+    "id": "p34",
+    "domain": "writing_prompts",
+    "prompt": "Compose a surreal dream sequence where gravity behaves like water."
+  },
+  {
+    "id": "p35",
+    "domain": "writing_prompts",
+    "prompt": "Write a tale about a forgotten melody that has the power to restore forgotten memories."
+  },
+  {
+    "id": "p36",
+    "domain": "writing_prompts",
+    "prompt": "Describe the dawn breaking over a post-apocalyptic garden tended by gentle automata."
+  },
+  {
+    "id": "p37",
+    "domain": "writing_prompts",
+    "prompt": "Write a conversation between the sun and the moon during a total solar eclipse."
+  },
+  {
+    "id": "p38",
+    "domain": "writing_prompts",
+    "prompt": "Describe an antique mirror that reflects not the person standing in front of it, but their future choices."
+  },
+  {
+    "id": "p39",
+    "domain": "writing_prompts",
+    "prompt": "Create an intriguing backstory for a wandering cartographer who maps dreams rather than continents."
+  },
+  {
+    "id": "p40",
+    "domain": "writing_prompts",
+    "prompt": "Write the final diary entry of an explorer who reached the edge of an infinite labyrinth."
+  }
+]
