@@ -1,0 +1,6 @@
+{
+  "break_even_acceptance_rate": 0.15,
+  "slower_domain_name": "writing_prompts",
+  "faster_domain_name": "alpaca",
+  "optimal_n_draft": 8
+}
